@@ -1,4 +1,4 @@
-# ZigZag-Game
+# ZigZag-Game ⚽
 
 ## TL; DR
 
